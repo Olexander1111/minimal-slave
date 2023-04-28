@@ -20,7 +20,7 @@ extern "C" {
 
 //===================================POWER=LEVEL=SETTINGS===============================
 #define WIFI_TX_POWER 15 // TX power of ESP module (0 -> 0.25dBm) (0...85)
-#define WIFI_TX_MAX_POWER 85
+#define WIFI_TX_MAX_POWER 55
 //========================================================================================
 
 
